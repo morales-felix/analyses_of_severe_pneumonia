@@ -11,7 +11,7 @@ import random
 from Thomas_code import patients, feature_conversion
 
 
-def get_cleaned_data(version='latest', outcome_encoding='multiple', multiple_visits=None, remove_unknown_measure=True, restrict=True):
+def get_cleaned_data(version='latest', multiple_visits=None, remove_unknown_measure=True, restrict=True):
     """
     Returns a cleaned table containing outcomes, measurements, patient age,
     dates, lengths of stay, and patient biological sex
@@ -22,11 +22,6 @@ def get_cleaned_data(version='latest', outcome_encoding='multiple', multiple_vis
     (as of December 2021, R:\Limited_Data\modelling_core\modified_data\limited\sqlsvr01-script-test.database)
     for possible versions.
     If not latest, string will need to have "yyyy-mm-dd/yymmdd_digest" format.
-    
-    outcome_encoding: Specify whether discharge disposition categories be encoded in a:
-    'binary': 0 for expired or patients discharged to hospice, 1 for other discharges
-    'three': 0 just like binary, 1 for discharges to other healthcare facilities, 2 for sent home discharges
-    'multiple': Discrete 0 to 5 discharge favorability encoding scheme. This is the default.
     
     multiple_visits: How to deal with patients hospitalized more than once.
     None: Default option: Discard patients with multiple encounters. 
@@ -44,13 +39,31 @@ def get_cleaned_data(version='latest', outcome_encoding='multiple', multiple_vis
     
     # Outcomes
     df = patients.modified_edw_rc('basic_endpoints', revision=version)
-    df = feature_conversion.add_discharge_disposition_name_as_number(df, scheme=outcome_encoding)
-    outcomes = df[['case_number', 'discharge_disposition_name_conv']].dropna(
-        subset=['discharge_disposition_name_conv']).astype(int).drop_duplicates()   # Slicing table to just get the patient identifier and a distinct outcome
-    outcomes = outcomes.drop_duplicates(subset=['case_number'], keep=False)  # Eliminating any case appearing with more than one outcome
-    if outcomes['case_number'].value_counts().max() > 1:
+    df = feature_conversion.convert_discharge_disposition_to_numbers(df)
+    
+    # Slicing table to just get the patient identifier and a distinct outcome
+    outcomes_multiple = df[['case_number',
+                            'discharge_disposition_multiple']].dropna(
+        subset=['discharge_disposition_multiple']).astype(int).drop_duplicates()
+    outcomes_multiple = outcomes_multiple.drop_duplicates(subset=['case_number'], keep=False)  # Eliminating any case appearing with more than one outcome
+    if outcomes_multiple['case_number'].value_counts().max() > 1:
         raise AssertionError('Case number tied to multiple discharge disposition categories')
         
+    # Repeat above for other outcome encoding schemes
+    outcomes_binary = df[['case_number',
+                            'discharge_disposition_binary']].dropna(
+        subset=['discharge_disposition_binary']).astype(int).drop_duplicates()
+    outcomes_binary = outcomes_binary.drop_duplicates(subset=['case_number'], keep=False)
+    if outcomes_binary['case_number'].value_counts().max() > 1:
+        raise AssertionError('Case number tied to multiple discharge disposition categories')
+        
+    outcomes_three = df[['case_number',
+                         'discharge_disposition_three']].dropna(
+        subset=['discharge_disposition_three']).astype(int).drop_duplicates()
+    outcomes_three = outcomes_three.drop_duplicates(subset=['case_number'], keep=False)
+    if outcomes_three['case_number'].value_counts().max() > 1:
+        raise AssertionError('Case number tied to multiple discharge disposition categories')
+    
     
     # Measurements. First, defining which columns to read in, which can reduce function runtime
     columns_to_keep = ['cohort_patient_id', 'measurement_vocabulary_id', 'measurement_concept_code',
@@ -114,7 +127,9 @@ def get_cleaned_data(version='latest', outcome_encoding='multiple', multiple_vis
     
     # Joining all tables.
     clean_all_table = pd.merge(map_patient_ids, full_measurement_table)
-    clean_all_table = pd.merge(clean_all_table, outcomes)
+    clean_all_table = pd.merge(clean_all_table, outcomes_multiple)
+    clean_all_table = pd.merge(clean_all_table, outcomes_binary)
+    clean_all_table = pd.merge(clean_all_table, outcomes_three)
     clean_all_table = pd.merge(clean_all_table, person)
     clean_all_table = pd.merge(clean_all_table, dates_and_LOS)
     clean_all_table = pd.merge(clean_all_table, patient_identifiers)
