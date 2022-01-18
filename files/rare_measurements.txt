@@ -1,0 +1,341 @@
+Varicella zoster virus IgM Ab [Units/volume] in Serum by Immunoassay
+Varicella zoster virus DNA [Presence] in Eye by NAA with probe detection
+Varicella zoster virus DNA [#/volume] (viral load) in Tissue by NAA with probe detection
+Varicella zoster virus DNA [#/volume] (viral load) in Unspecified specimen by NAA with probe detection
+Herpes simplex virus identified in Urethra by Organism specific culture
+Herpes simplex virus identified in Penis by Organism specific culture
+Herpes simplex virus identified in Eye by Organism specific culture
+Herpes simplex virus Ag [Presence] in Skin by Immunoassay
+Herpes simplex virus Ag [Presence] in Penis
+Herpes simplex virus Ag [Presence] in Eye
+Herpes simplex virus 2 [Presence] in Vaginal fluid by Organism specific culture
+Herpes simplex virus 2 [Presence] in Unspecified specimen by Organism specific culture
+Herpes simplex virus 2 [Presence] in Throat by Organism specific culture
+Herpes simplex virus 2 [Presence] in Skin by Organism specific culture
+Herpes simplex virus 2 [Presence] in Isolate by Immunofluorescence
+Herpes simplex virus 2 [Presence] in Cervix by Organism specific culture
+Herpes simplex virus 2 [Presence] in Anal by Organism specific culture
+Herpes simplex virus 2 DNA [Presence] in Unspecified specimen by NAA with probe detection
+Herpes simplex virus 2 DNA [#/volume] (viral load) in Tissue by NAA with probe detection
+Herpes simplex virus 2 DNA [#/volume] (viral load) in Body fluid by NAA with probe detection
+Herpes simplex virus 1 genome DNA polymerase region B+thymidine kinase region C [Presence] in Anogenital specimen by NAA with probe detection
+Herpes simplex virus 1 [Presence] in Vaginal fluid by Organism specific culture
+Herpes simplex virus 1 [Presence] in Unspecified specimen by Organism specific culture
+Herpes simplex virus 1 [Presence] in Throat by Organism specific culture
+Herpes simplex virus 1 DNA [Presence] in Unspecified specimen by NAA with probe detection
+Herpes simplex virus 1 DNA [#/volume] (viral load) in Body fluid by NAA with probe detection
+Herpes simplex virus 1 DNA [#/volume] (viral load) in Tissue by NAA with probe detection
+Neutrophil cytoplasmic Ab.perinuclear.atypical [Titer] in Serum by Immunofluorescence
+Neutrophil cytoplasmic Ab.perinuclear [Titer] in Serum by Immunofluorescence
+Neutrophil cytoplasmic Ab [Presence] in Serum
+Neutrophil cytoplasmic Ab.classic [Titer] in Serum by Immunofluorescence
+Myeloperoxidase Ab [Units/volume] in Serum by Immunoassay
+Proteinase 3 Ab [Units/volume] in Serum by Immunoassay
+Myeloperoxidase Ab [Units/volume] in Serum
+Proteinase 3 Ab [Units/volume] in Serum
+Voltage-gated potassium channel Ab [Moles/volume] in Serum
+Voltage-gated calcium channel P/Q type binding Ab [Moles/volume] in Serum
+Voltage-gated calcium channel N type binding Ab [Moles/volume] in Serum
+Streptokinase Ab [Titer] in Serum
+PCA-Tr Ab [Titer] in Serum
+PCA-2 Ab [Titer] in Serum
+PCA-1 Ab [Titer] in Serum
+Neuronal nuclear type 1 Ab [Titer] in Serum
+Glial nuclear type 1 Ab [Titer] in Serum
+CV2 IgG Ab [Titer] in Serum
+Annexin V IgG Ab [Units/volume] in Serum or Plasma
+Acetylcholine receptor ganglionic neuronal Ab [Moles/volume] in Serum
+Amphiphysin Ab [Titer] in Serum
+Treponema pallidum IgG Ab [Presence] in Serum by Immunoassay
+Choriogonadotropin [Units/volume] in Serum or Plasma
+Choriogonadotropin.beta subunit [Units/volume] in Serum or Plasma
+Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma
+Basophils/100 leukocytes in Body fluid by Manual count
+Heparin unfractionated [Units/volume] in Platelet poor plasma by Chromogenic method
+Plasma cells/100 leukocytes in Body fluid by Manual count
+Plasma cells [#/volume] in Blood by Manual count
+Plasma cells/100 leukocytes in Blood
+Parathyrin.intact [Mass/volume] in Serum or Plasma
+Creatinine 24 hour urine panel - 24 hour Urine
+Alpha 2 globulin [Mass/volume] in 24 hour Urine by Electrophoresis
+Choriogonadotropin.beta subunit (pregnancy test) [Presence] in Urine
+Specimen source identified
+Homocysteine [Moles/volume] in Serum or Plasma
+Homocystine [Moles/volume] in Serum or Plasma
+Digoxin [Mass/volume] in Serum or Plasma
+Calcium [Mass/time] in 24 hour Urine
+Calcium [Mass/volume] in 24 hour Urine
+Phosphate [Mass/volume] in Urine
+Phosphate [Mass/time] in 24 hour Urine
+Phosphate [Mass/volume] in 24 hour Urine
+Liver kidney microsomal 1 IgG Ab [Units/volume] in Serum by Immunoassay
+Mitochondria Ab [Presence] in Serum
+Calcium [Mass/volume] in Urine
+Triiodothyronine (T3) Free [Mass/volume] in Serum or Plasma
+Prealbumin [Mass/volume] in Serum or Plasma
+Calcitriol [Mass/volume] in Serum or Plasma
+Volume of 24 hour Urine
+Creatinine renal clearance/1.73 sq M in 24 hour Urine and Serum or Plasma
+Gas and Carbon monoxide panel - Blood
+Basophils [#/volume] in Blood by Manual count
+Blasts/100 leukocytes in Blood by Manual count
+Platelets reticulated/100 platelets in Blood by Automated count
+Copper [Mass/volume] in Blood
+Zinc [Mass/volume] in Serum or Plasma
+Mixed cellular casts [#/area] in Urine sediment by Microscopy low power field
+Broad casts [#/area] in Urine sediment by Microscopy low power field
+Hepatitis C virus RNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection
+Promyelocytes [#/volume] in Blood by Manual count
+Promyelocytes/100 leukocytes in Blood by Manual count
+Urea nitrogen [Mass/volume] in Urine
+Waxy casts [#/area] in Urine sediment by Microscopy low power field
+Alpha 1 antitrypsin [Mass/volume] in Serum or Plasma
+Ceruloplasmin [Mass/volume] in Serum or Plasma
+Smooth muscle Ab [Presence] in Serum
+Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma
+Alpha-1-fetoprotein.tumor marker [Mass/volume] in Serum or Plasma
+Coagulation factor V activated [Units/volume] in Platelet poor plasma by Coagulation assay
+Coagulation factor VIII activated [Units/volume] in Platelet poor plasma by Coagulation assay
+Coagulation factor VIII activity actual/normal in Platelet poor plasma by Coagulation assay
+Valproate [Mass/volume] in Serum or Plasma
+IgG [Mass/volume] in Serum or Plasma
+Varicella zoster virus DNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection
+PHENobarbital [Mass/volume] in Serum or Plasma
+IgG/Protein.total in Cerebral spinal fluid
+IgG/Albumin [Mass Ratio] in Cerebral spinal fluid
+IgG synthesis rate [Mass/time] in Serum and CSF by calculation
+IgG in CSF/IgG in serum
+Albumin [Mass/volume] in Cerebral spinal fluid
+IgG [Mass/volume] in Cerebral spinal fluid
+Platelet function (closure time) collagen+ADP induced [Time] in Blood
+Platelet function (closure time) collagen+EPINEPHrine induced [Time] in Blood
+Platelet aggregation ADP induced [Units/volume] in Platelet rich plasma
+Platelet aggregation arachidonate induced ATP secretion [Presence] in Blood --500 umol/L
+Rheumatoid factor [Units/volume] in Serum by Immunoassay
+Rheumatoid factor [Units/volume] in Serum or Plasma
+Antithrombin [Units/volume] in Platelet poor plasma by Chromogenic method
+Protein S actual/normal in Platelet poor plasma by Coagulation assay
+Protein C [Units/volume] in Platelet poor plasma by Chromogenic method
+Protein S [Units/volume] in Platelet poor plasma by Coagulation assay
+Clotting time of Blood by Thromboelastography
+Clot strength in Blood by Thromboelastography
+Clot angle in Blood by Thromboelastography
+Clot formation [Time] in Blood by Thromboelastography
+Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay
+Herpes virus 7 DNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection
+Acetylcholine receptor binding Ab [Moles/volume] in Serum
+Acetylcholine receptor blocking Ab [Units/volume] in Serum
+Heterophile Ab [Presence] in Serum
+F5 gene p.Arg506Gln [Presence] in Blood or Tissue by Molecular genetics method
+Protein S Free Ag [Units/volume] in Platelet poor plasma by Immunoassay
+Complement total hemolytic CH50 [Mass/volume] in Serum or Plasma
+Protein C Ag actual/normal in Platelet poor plasma by Immunoassay
+BK virus DNA [#/volume] (viral load) in Blood by NAA with probe detection
+BK virus DNA [#/volume] (viral load) in Unspecified specimen by NAA with probe detection
+Methylmalonate [Moles/volume] in Serum or Plasma
+Phenytoin Free [Mass/volume] in Serum or Plasma
+Phenytoin [Mass/volume] in Serum or Plasma
+Insulin [Units/volume] in Serum or Plasma
+Glutamate decarboxylase 65 Ab [Units/volume] in Serum
+Coagulation factor X activated [Units/volume] in Platelet poor plasma by Coagulation assay
+Coagulation factor X activity actual/normal in Platelet poor plasma by Coagulation assay
+Prothrombin activity actual/normal in Platelet poor plasma by Coagulation assay
+Coagulation factor VII activated [Units/volume] in Platelet poor plasma by Coagulation assay
+Coagulation factor VII activity actual/normal in Platelet poor plasma by Coagulation assay
+CD3 cells/100 cells in Blood
+Macroprolactin/Prolactin [Mass] in Serum or Plasma
+Prolactin [Mass/volume] in Serum or Plasma
+Bilirubin.total [Presence] in Body fluid
+IgG subclass 4 [Mass/volume] in Serum
+Cryocrit of Serum by Spun Westergren
+Beta-2-Microglobulin [Mass/time] in 24 hour Urine
+Creatinine [Mass/time] in 24 hour Urine
+CD19 cells/100 cells in Blood
+Proteinase 3 [Presence] in Serum by Immunoassay
+Myeloperoxidase Ab [Presence] in Serum by Immunoassay
+Proteinase 3 Ab [Presence] in Serum by Immunoassay
+Angiotensin converting enzyme [Enzymatic activity/volume] in Serum or Plasma
+Centromere Ab [Units/volume] in Serum
+RNA polymerase III Ab [Units/volume] in Serum
+Aldolase [Enzymatic activity/volume] in Serum or Plasma
+Basement membrane Ab [Units/volume] in Serum by Immunoassay
+dRVVT/dRVVT W excess phospholipid (screen to confirm ratio)
+Histone Ab [Units/volume] in Serum by Immunoassay
+Smith extractable nuclear Ab+Ribonucleoprotein extractable nuclear IgG Ab [Units/volume] in Serum by Immunoassay
+Smith extractable nuclear Ab [Units/volume] in Serum by Immunoassay
+Sjogrens syndrome-B extractable nuclear Ab [Units/volume] in Serum by Immunoassay
+Sjogrens syndrome-A extractable nuclear Ab [Units/volume] in Serum by Immunoassay
+Jo-1 extractable nuclear Ab [Units/volume] in Serum by Immunoassay
+SCL-70 extractable nuclear Ab [Units/volume] in Serum by Immunoassay
+C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method
+Chlamydia trachomatis DNA [Presence] in Unspecified specimen by NAA with probe detection
+Neisseria gonorrhoeae DNA [Presence] in Unspecified specimen by NAA with probe detection
+Alkaline phosphatase.placental/Alkaline phosphatase.total in Serum or Plasma
+Alkaline phosphatase.macrohepatic/Alkaline phosphatase.total in Serum or Plasma
+Alkaline phosphatase.bone [Enzymatic activity/volume] in Serum or Plasma
+Alkaline phosphatase.bone/Alkaline phosphatase.total in Serum or Plasma
+Microalbumin [Mass/volume] in 24 hour Urine
+Microalbumin/Creatinine [Mass Ratio] in Urine
+Band form neutrophils/100 leukocytes in Blood by Manual count
+Free Hemoglobin [Mass/volume] in Plasma
+Fat [Mass/time] in 24 hour Stool
+Weight of unspecified time Stool
+Entamoeba histolytica Ag [Presence] in Stool by Immunoassay
+Adenovirus DNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection
+cycloSPORINE [Mass/volume] in Blood
+cycloSPORINE [Mass/volume] in Blood by Immunoassay
+Heparin induced platelet Ab [Presence] in Serum or Plasma by Immunoassay
+Hepatitis B virus DNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection
+Sirolimus [Mass/volume] in Blood
+Acanthocytes [Presence] in Blood by Light microscopy
+Howell-Jolly bodies [Presence] in Blood by Light microscopy
+Parvovirus B19 DNA [Presence] in Unspecified specimen by NAA with probe detection
+Thiamine [Moles/volume] in Serum or Plasma
+Tryptase [Mass/volume] in Serum or Plasma
+Follitropin [Units/volume] in Serum or Plasma
+Insulin-like growth factor-I [Mass/volume] in Serum or Plasma
+Thyroxine (T4) [Mass/volume] in Serum or Plasma
+Triiodothyronine (T3).reverse [Mass/volume] in Serum or Plasma
+von Willebrand factor (vWf) Ag [Units/volume] in Platelet poor plasma by Immunoassay
+von Willebrand factor (vWf) Ag actual/normal in Platelet poor plasma by Immunoassay
+Myoglobin [Mass/volume] in Urine
+von Willebrand factor (vWf).activity actual/normal in Platelet poor plasma by Immunoassay
+Hematocrit [Volume Fraction] of Body fluid
+Helicobacter pylori IgG Ab [Units/volume] in Serum
+Macrophages/100 leukocytes in Cerebral spinal fluid
+Band form neutrophils/100 leukocytes in Cerebral spinal fluid
+Eosinophils/100 leukocytes in Cerebral spinal fluid
+Cancer Ag 19-9 [Units/volume] in Serum or Plasma
+Carcinoembryonic Ag [Mass/volume] in Serum or Plasma
+Coagulation factor VIII inhibitor [Units/volume] in Platelet poor plasma by Coagulation assay
+Tissue transglutaminase IgG Ab [Units/volume] in Serum
+Gentamicin [Mass/volume] in Serum or Plasma
+Gliadin IgA Ab [Units/volume] in Serum by Immunoassay
+Tissue transglutaminase IgA Ab [Units/volume] in Serum
+Streptolysin O Ab [Units/volume] in Serum or Plasma
+Mycoplasma pneumoniae IgG Ab [Units/volume] in Serum by Immunoassay
+Mycoplasma pneumoniae IgM Ab [Units/volume] in Serum by Immunoassay
+Thyroperoxidase Ab [Units/volume] in Serum or Plasma
+Thyroglobulin [Mass/volume] in Serum or Plasma
+Thyroglobulin Ab [Units/volume] in Serum or Plasma
+Thyroglobulin Ab [Units/volume] in Serum or Plasma by Immunoassay
+Ascorbate [Mass/volume] in Serum or Plasma
+BK virus DNA [Units/volume] (viral load) in Urine by NAA with probe detection
+Parathyrin related protein [Moles/volume] in Serum or Plasma
+Triiodothyronine (T3) [Mass/volume] in Serum or Plasma
+Metamyelocytes/100 leukocytes in Body fluid by Manual count
+Myelocytes/100 leukocytes in Body fluid by Manual count
+Basophils/100 leukocytes in Cerebral spinal fluid
+Leukocytes other/100 leukocytes in Cerebral spinal fluid
+Leukocytes other/100 leukocytes in Cerebral spinal fluid by Manual count
+Crystals [type] in Body fluid by Light microscopy
+Creatinine [Mass/volume] in Body fluid
+Urea nitrogen [Mass/time] in 24 hour Urine
+Erythropoietin (EPO) [Units/volume] in Serum or Plasma
+Cholate [Moles/volume] in Serum or Plasma
+Deoxycholate [Moles/volume] in Serum or Plasma
+Epithelial casts [#/area] in Urine sediment by Microscopy low power field
+Prostate specific Ag [Mass/volume] in Serum or Plasma
+Cholesterol [Mass/volume] in Body fluid
+Pyridoxine [Moles/volume] in Serum or Plasma
+Lithium [Moles/volume] in Serum or Plasma
+Enolase.neuron specific [Mass/volume] in Serum or Plasma
+Potassium [Moles/volume] in Stool
+Sodium [Moles/volume] in Stool
+Borrelia burgdorferi IgG Ab [Presence] in Serum or Plasma by Immunoassay
+Borrelia burgdorferi IgM Ab [Presence] in Serum or Plasma by Immunoassay
+Viscosity of Serum
+Urate [Mass/time] in 24 hour Urine
+Tobramycin [Mass/volume] in Serum or Plasma
+Thyroid stimulating immunoglobulins [Units/volume] in Serum
+Retinol [Mass/volume] in Serum or Plasma
+RBC casts [#/area] in Urine sediment by Microscopy low power field
+Phytonadione [Mass/volume] in Serum or Plasma
+IgG subclass 1 [Mass/volume] in Serum
+Gamma globulin.abnormal band [Mass/volume] in Serum or Plasma by Electrophoresis
+Blasts/100 leukocytes in Cerebral spinal fluid
+Corticotropin [Mass/volume] in Plasma
+Protein [Mass/volume] in 24 hour Urine
+Protein [Mass/volume] in Urine
+Protein [Mass/volume] in Urine by Test strip
+Alpha 2 globulin [Mass/volume] in Urine by Electrophoresis
+Gamma globulin [Mass/time] in 24 hour Urine
+Beta globulin [Mass/time] in 24 hour Urine
+Albumin [Mass/volume] in 24 hour Urine
+Alpha 1 globulin [Mass/time] in 24 hour Urine by Electrophoresis
+Gamma globulin [Mass/volume] in Serum or Plasma by Electrophoresis
+Beta-2-Microglobulin [Mass/volume] in Serum or Plasma
+Alpha 2 globulin [Mass/volume] in Serum or Plasma by Electrophoresis
+Albumin/Globulin [Mass Ratio] in Serum or Plasma by Electrophoresis
+Alpha 1 globulin [Mass/volume] in Serum or Plasma by Electrophoresis
+Lambda light chains [Mass/volume] in Serum or Plasma
+Kappa light chains.free [Mass/volume] in Serum
+Kappa light chains.free/Lambda light chains.free [Mass Ratio] in Cerebral spinal fluid
+Lambda light chains.free [Mass/volume] in Serum or Plasma
+Kappa light chains [Mass/volume] in Serum or Plasma
+Kappa light chains/Lambda light chains [Mass Ratio] in Serum by Immunoassay
+Glucose [Mass/volume] in Body fluid
+Albumin in serum - albumin in peritoneal fluid [Mass concentration difference]
+Neutrophils [#/volume] in Body fluid
+Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid by Lactate to pyruvate reaction
+Protein [Mass/volume] in Body fluid
+Mesothelial cells/100 leukocytes in Body fluid by Manual count
+Triglyceride [Mass/volume] in Body fluid
+Complement C3 [Mass/volume] in Serum or Plasma
+Complement C4 [Mass/volume] in Serum or Plasma
+Cardiolipin IgG Ab [Units/volume] in Serum or Plasma
+Cardiolipin IgM Ab [Units/volume] in Serum or Plasma
+Jo-1 extractable nuclear Ab [Units/volume] in Serum
+Sjogrens syndrome-A extractable nuclear Ab [Presence] in Serum by Immunoassay
+Sjogrens syndrome-B extractable nuclear Ab [Presence] in Serum by Immunoassay
+Nuclear Ab [Titer] in Serum by Immunofluorescence
+DNA double strand Ab [Units/volume] in Serum
+DNA double strand Ab [Units/volume] in Serum by Immunoassay
+CD19 cells/100 cells in Bronchial specimen
+Specimen type
+CD3-CD16+CD56+ (Natural killer) cells/100 cells in Unspecified specimen
+CD3+CD4+ (T4 helper) cells/CD3+CD8+ (T8 suppressor cells) cells [# Ratio] in Bronchial specimen
+CD3 cells/100 cells in Bronchial specimen
+CD3+CD4+ (T4 helper) cells/100 cells in Bronchial specimen
+1,3 beta glucan [Mass/volume] in Serum
+Histoplasma capsulatum Ag [Mass/volume] in Urine
+IgA [Mass/volume] in Serum or Plasma
+IgM [Mass/volume] in Serum or Plasma
+Calcium.ionized [Moles/volume] in Blood by Ion-selective membrane electrode (ISE)
+25-Hydroxyvitamin D3+25-Hydroxyvitamin D2 [Mass/volume] in Serum or Plasma
+25-hydroxyvitamin D3 [Mass/volume] in Serum or Plasma
+Cytomegalovirus DNA [Units/volume] (viral load) in Unspecified specimen by NAA with probe detection
+Tacrolimus [Mass/volume] in Blood
+Amikacin [Mass/volume] in Serum or Plasma
+Dacrocytes [Presence] in Blood by Light microscopy
+Target cells [Presence] in Blood by Light microscopy
+Spherocytes [Presence] in Blood by Light microscopy
+Poikilocytosis [Presence] in Blood by Light microscopy
+Schistocytes [Presence] in Blood by Light microscopy
+Toxic granules [Presence] in Blood by Light microscopy
+Urate [Mass/volume] in Serum or Plasma
+Ethanol [Mass/volume] in Serum or Plasma
+Acetaminophen [Mass/volume] in Serum or Plasma
+Salicylates [Mass/volume] in Serum or Plasma
+Amylase [Enzymatic activity/volume] in Serum or Plasma
+Cortisol [Mass/volume] in Serum or Plasma
+Thyroxine (T4) free [Mass/volume] in Serum or Plasma
+Phencyclidine [Presence] in Urine
+Opiates [Presence] in Urine
+Cocaine [Presence] in Urine
+Cannabinoids [Presence] in Urine
+Benzodiazepines [Presence] in Urine
+Amphetamines [Presence] in Urine
+Barbiturates [Presence] in Urine
+Neutrophils [#/volume] in Cerebral spinal fluid by Manual count
+Neutrophils/100 leukocytes in Cerebral spinal fluid
+Monocytes/100 leukocytes in Cerebral spinal fluid
+Turbidity [Presence] of Cerebral spinal fluid Qualitative
+Tube number of Cerebral spinal fluid
+Protein [Mass/volume] in Cerebral spinal fluid
+Lymphocytes/100 leukocytes in Cerebral spinal fluid
+Leukocytes [#/volume] in Cerebral spinal fluid by Manual count
+Glucose [Mass/volume] in Cerebral spinal fluid
+Erythrocytes [#/volume] in Cerebral spinal fluid by Manual count
+Cells Counted Total [#] in Cerebral spinal fluid
+Color of Spun Cerebral spinal fluid
