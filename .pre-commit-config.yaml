@@ -1,0 +1,9 @@
+repos:
+  - repo: https://github.com/tulachin/analyses_of_severe_pneumonia
+    hooks:
+      - id: jupyter-nb-clear-output
+        name: jupyter-nb-clear-output
+        files: \.ipynb$
+        stages: [commit]
+        language: system
+        entry: jupyter nbconvert --ClearOutputPreprocessor.enabled=True --inplace
