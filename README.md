@@ -1,7 +1,8 @@
 # Analyses of severe pneumonia patients and their clinical measurements
 
 This repository contains Jupyter notebooks summarizing work done for my Quantitative and Systems Biology masters thesis research project.  
-Main question: Among the sea of tests ordered by clinicians, which ones would be the most informative on discharges of severly-ill pneumonia patients? And can we build a model that predicts discrete patient states, and the transitions between these states?
+
+**Main question**: *Among the sea of tests ordered by clinicians, which ones would be the most informative on discharges of severly-ill pneumonia patients? And can we build a model that predicts discrete patient states, and the transitions between these states?*
 
 This work is done within the Successful Clinical Response in Pneumonia Treatment (SCRIPT), which has enrolled ~600 critically-ill patients as of January 2022, on suspicion of pneumonia. The overall goal of this effort is to find out what drives poor outcomes and treatment responses in these patients. To pin down these mechanisms at the cellular/gene level, this center has the unique advantage of having developed a safe and repeatable protocol to collect Bronchoalveolar Lavage samples from these patients: In essence, we can sample fluid from their lungs, and take a look at the cellular composition of these samples. In this way, the center aims to connect the dots between the clinical presentation of these patients, and the biological mechanisms driving these clinical courses.  
 
