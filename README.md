@@ -13,4 +13,4 @@ My contribution to this project involved wrangling clinical data from Electronic
 # How to Navigate This Repository  
 This repository consists mainly of Jupyter notebooks documenting the analysis. The notebooks are numbered in the order they were created, reflecting the progression and continuous discovery throughout the project. While you can read them in any order, following the numerical sequence will provide a coherent narrative of the data analysis journey.  
 
-  Feel free to explore these notebooks to gain insights into the analytical process and findings of this project. Whether you are an academic or a business professional, I hope you find this work both informative and engaging.
+Feel free to explore these notebooks to gain insights into the analytical process and findings of this project. I hope you find this work both informative and engaging.
